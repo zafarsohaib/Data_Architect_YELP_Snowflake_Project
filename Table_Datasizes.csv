@@ -1,0 +1,10 @@
+Table Name;Raw file ;Staging;ODS;Datawarehouse
+Business;113 MB;11 MB;11.5 MB;11.5 MB
+Checkin;273 MB;80.5 MB;80.5 MB;80.5 MB
+Covid;61.8 MB;5 MB;5 MB;5 MB
+Review;4.97 GB;1.9 GB;1.9 GB;1.9 GB
+Tip;172 MB;46.1 MB;44.8 MB;44.8 MB
+User;3.13 GB;1.8 GB;1.8 GB;1.8 GB
+Precipitation;543 KB;120.5 KB;127 KB;127 KB
+Temperature;828 KB;217 KB;173 KB;173 KB
+FactTable;;;;244 MB
